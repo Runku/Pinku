@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/TamilanBotsZ/PremiumFilter/Tamilans-Working-Branch",
-    "repository": "https://github.com/TamilanBotsZ/PremiumFilter/Tamilans-Working-Branch",
+    "website": "https://github.com/Runku/Pinku",
+    "repository": "https://github.com/Runku/Pinku",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
